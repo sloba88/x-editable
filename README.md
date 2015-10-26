@@ -1,4 +1,4 @@
-# X-editable
+# X-editable with Bootstrap3 datepicker fix
 
 In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.  
 
